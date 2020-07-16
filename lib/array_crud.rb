@@ -1,12 +1,13 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  ['fire', 'water', 'earth', 'air']
 end
 
 def add_element_to_end_of_array(array, element)
+  array ['fire', 'water', 'earth']
   
 end
 
